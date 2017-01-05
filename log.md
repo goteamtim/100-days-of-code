@@ -14,3 +14,13 @@
 
 **Link(s) to work**
 I have not sync'd the repo with github yet, I can do that tomorrow.
+
+### Day 2: January 5, Thursday
+
+**Today's Progress**: I had the wrong date for the last pushed date in the repo.  I fixed that and started working on the logic for the active day counter.
+
+**Thoughts** It is much easier to break things down into little bits and have those little victories each day.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
