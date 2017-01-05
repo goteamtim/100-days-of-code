@@ -6,12 +6,11 @@
 
 **Thoughts:** Really excited to build a progress tracker for the challenge.
 
-### Day 1: June 27, Monday
+### Day 1: January 4, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Got the api calls working with github and was able to display information about a repo using their API.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Working with angular saves me so much time now that I am getting the hang of it.  I want to incorporate a database in the future.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+I have not sync'd the repo with github yet, I can do that tomorrow.
