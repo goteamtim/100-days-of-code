@@ -24,3 +24,13 @@ I have not sync'd the repo with github yet, I can do that tomorrow.
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 3: January 6, Friday
+
+**Today's Progress**: Got the logic sorted out with the current code day.  Actually got the app working today!  It takes in a username and repo name and then tells you if you have coded today.  If you have it offers you the chance to tweet your progress!
+
+**Thoughts** I learned about ngSanitize today wich was very helpful.  I will start to work on css soon to make it look cleaner.  I also thought about some new ideas to add to the project.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
