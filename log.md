@@ -34,3 +34,13 @@ https://github.com/goteamtim/100-days-tracker
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 4: January 7, Saturday
+
+**Today's Progress**: Wasnt able to put a ton of work in today but added localstorage so I can keep track of their information.
+
+**Thoughts** Forgot then remembered how to check if an item exists in an arrayand add it if its not there.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
