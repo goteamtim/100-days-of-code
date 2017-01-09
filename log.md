@@ -44,3 +44,24 @@ https://github.com/goteamtim/100-days-tracker
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 5: January 8, Sunday
+
+**Today's Progress**: Added a service worker and updated the UI.  I need to do more work to the service worker so that I can send push messages to the users when they need to update the repo for the day.
+
+**Thoughts** I did not know really what a service worker did so it was great learning and starting to impliment one.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
+Info on Service workers:  https://developers.google.com/web/fundamentals/getting-started/primers/service-workers
+
+### Day 6: January 9, Monday
+
+**Today's Progress**: Added the first custom logos for the cards to change depending on the language you wrote your code in.
+
+**Thoughts** It would be cool to automatically start tracking after the first time you log your repo.  Would also be cool to track what people are coding to see what languages are most popular during the 100daysofcode challenge.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
