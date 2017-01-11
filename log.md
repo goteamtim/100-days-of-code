@@ -75,3 +75,13 @@ https://github.com/goteamtim/100-days-tracker
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 8: January 11, Wednesday
+
+**Today's Progress**: Mainly some more style fixes today.  I fixed the display issue when you try and click submit twice.
+
+**Thoughts** I keep going back and forth on style.  I need to pick something and stick with it.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
