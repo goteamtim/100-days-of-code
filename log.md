@@ -65,3 +65,13 @@ Info on Service workers:  https://developers.google.com/web/fundamentals/getting
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 7: January 10, Tuesday
+
+**Today's Progress**: Learned about making a mobile site an actual webapp today!  I had no idea how that was done.  (Here)[https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/] is a great example.
+
+**Thoughts** Being able to install web apps with service workers finally makes sense.  I am really looking forward to learning more about this.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
