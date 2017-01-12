@@ -85,3 +85,13 @@ https://github.com/goteamtim/100-days-tracker
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 9: January 12, Thursday
+
+**Today's Progress**: Didn't get a lot done, spent a lot of time working on layout changes that are not working yet.
+
+**Thoughts**  Need to find a style that I like and really learn more about css so I know how to better manipulate it to my needs.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
