@@ -95,3 +95,13 @@ https://github.com/goteamtim/100-days-tracker
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 10: January 13, Friday
+
+**Today's Progress**: Mainly fixed the styling and worked on css.  There is a ton to learn there.  
+
+**Thoughts**  I need to focus on css more to be able to quickly manipulate what I need.
+
+**Link(s) to work**
+http://www.timharshman.com/100-days-tracker/index.html
+https://github.com/goteamtim/100-days-tracker
