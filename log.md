@@ -105,3 +105,19 @@ https://github.com/goteamtim/100-days-tracker
 **Link(s) to work**
 http://www.timharshman.com/100-days-tracker/index.html
 https://github.com/goteamtim/100-days-tracker
+
+### Day 11: January 14, Saturday
+
+**Today's Progress**: Took a break from the tracker today to start my portfolio project for freecodecamp.  Excited to finally finish this up, I want to finish my front end certification during the #100daysofcode.
+
+**Thoughts**  Just a lot of setup today, after I finish this I might make a template for simple projects with the basics already setup.  This would save a lot of time.
+
+**Link(s) to work**
+
+### Day 12: January 15, Sunday
+
+**Today's Progress**: Started working more on my portfolio but stopping now to do more research about ngRoute.  I want to use route parameters to load dynamic content and having a lot of trouble currently.
+
+**Thoughts**  I feel like I am seeing more and more about how patterns are so useful in programming.  Once you have patterns down you can really focus more on what you want the code to do rather than how to impliment.
+
+**Link(s) to work**
