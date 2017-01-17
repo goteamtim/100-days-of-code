@@ -121,3 +121,11 @@ https://github.com/goteamtim/100-days-tracker
 **Thoughts**  I feel like I am seeing more and more about how patterns are so useful in programming.  Once you have patterns down you can really focus more on what you want the code to do rather than how to impliment.
 
 **Link(s) to work**
+
+### Day 13: January 16, Monday
+
+**Today's Progress**: I got my app working after making a dumb mistake then I got my overlay started for when a user first comes to the site.
+
+**Thoughts**  1.  Read the manual.  2. Start with the basics.  I couldnt get the app to load because...I forgot to include my script on the page...  Now that I have that working I can get back to my code.
+
+**Link(s) to work**
