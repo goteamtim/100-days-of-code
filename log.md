@@ -129,3 +129,21 @@ https://github.com/goteamtim/100-days-tracker
 **Thoughts**  1.  Read the manual.  2. Start with the basics.  I couldnt get the app to load because...I forgot to include my script on the page...  Now that I have that working I can get back to my code.
 
 **Link(s) to work**
+
+### Day 14: January 17, Tuesday
+
+**Today's Progress**: I had made a dumb mistake which i fixed.  
+
+**Thoughts**  Once again, going back and thinking about the basics helped me fix my issues.
+
+**Link(s) to work**
+https://github.com/goteamtim/tribute
+
+### Day 15: January 18, Wednesday
+
+**Today's Progress** Linked up the initial form with the first part of the dynamic tribute page.  The users image, name, and bio now loads after they input their github username.  I also used a factory for the first time that will hopefully let me use data between controllers.  I want a controller for each of the sections of the page.
+
+**Thoughts**  I really like working on this project.  It's giving me more ideas about my tracker app.  I am finding that when I have an issue if I just take a minute to look at my code before quickly jumping to stack overflow or googling I can usually find something thats wrong and fix it myself.
+
+**Link(s) to work**
+https://github.com/goteamtim/tribute
