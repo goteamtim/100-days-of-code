@@ -147,3 +147,12 @@ https://github.com/goteamtim/tribute
 
 **Link(s) to work**
 https://github.com/goteamtim/tribute
+
+### Day 16: January 19, Thursday
+
+**Today's Progress** Worked on getting data passed between controllers in my angular app.  I started with a factory but finally successfully got things working by using rootScope.  Now I can call a function from one controller so that I can populate the other controller with data.  
+
+**Thoughts**  I think I need to look into factories more.  I think I can use that more efficiently than rootScope in this use case.
+
+**Link(s) to work**
+https://github.com/goteamtim/tribute
